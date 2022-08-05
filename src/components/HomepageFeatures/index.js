@@ -17,17 +17,17 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Just a few steps to install and configure and it's ready to use.
+        Just a few steps to configure and it's ready to use.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Open Source',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Backed by FTeam and the Flutterando community, 
+        Asuka is an open source project and a work of love that is always accepting new ideas and constructive criticism.
       </>
     ),
   },
