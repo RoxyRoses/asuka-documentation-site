@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Simple and clean',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/simple-clean.svg').default,
     description: (
       <>
         Snackbars, dialogs and ModalSheets, ready to use in your project.
@@ -13,8 +13,8 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Easy to install',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Easy to use',
+    Svg: require('@site/static/img/easy-install.svg').default,
     description: (
       <>
         Just a few steps to configure and it's ready to use.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Open Source',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/open-souce.svg').default,
     description: (
       <>
         Backed by FTeam and the Flutterando community, 
