@@ -26,8 +26,8 @@ const FeatureList = [
     Svg: require('@site/static/img/open-souce.svg').default,
     description: (
       <>
-        Backed by FTeam and the Flutterando community, 
-        Asuka is an open source project and a work of love that is always accepting new ideas and constructive criticism.
+        Powered by FTeam and the Flutterando community, 
+        Asuka is an open source project and a work of love that is accepting new ideas and constructive criticism.
       </>
     ),
   },
